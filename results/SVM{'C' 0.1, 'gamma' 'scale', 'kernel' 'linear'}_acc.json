@@ -1,0 +1,1 @@
+{"params": {"C": 0.1, "gamma": "scale", "kernel": "linear"}, "mean_test_score": 0.8525, "std_test_score": 0.03720719016534304}

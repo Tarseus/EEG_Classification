@@ -1,0 +1,1 @@
+{"params": {"max_depth": 30, "min_samples_split": 2, "n_estimators": 100}, "mean_test_score": 0.7812499999999999, "std_test_score": 0.03307189138830736}

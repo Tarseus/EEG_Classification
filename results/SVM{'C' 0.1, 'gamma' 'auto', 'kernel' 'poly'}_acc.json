@@ -1,0 +1,1 @@
+{"params": {"C": 0.1, "gamma": "auto", "kernel": "poly"}, "mean_test_score": 0.60125, "std_test_score": 0.14771171246722448}

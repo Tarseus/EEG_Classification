@@ -1,0 +1,1 @@
+{"params": {"algorithm": "auto", "n_neighbors": 7, "weights": "uniform"}, "mean_test_score": 0.79875, "std_test_score": 0.06724488828156383}

@@ -1,0 +1,1 @@
+{"params": {"C": 10, "gamma": "auto", "kernel": "rbf"}, "mean_test_score": 0.85375, "std_test_score": 0.03548767391644599}

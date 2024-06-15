@@ -1,0 +1,1 @@
+{"params": {"C": 0.1, "gamma": "scale", "kernel": "sigmoid"}, "mean_test_score": 0.505, "std_test_score": 0.004677071733467411}
